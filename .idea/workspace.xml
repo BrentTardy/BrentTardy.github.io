@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hobbys.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hobbys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <workItem from="1665665817261" duration="140000" />
       <workItem from="1665666032069" duration="63000" />
       <workItem from="1665666111840" duration="167000" />
-      <workItem from="1665666288847" duration="1321000" />
+      <workItem from="1665666288847" duration="1962000" />
     </task>
     <servers />
   </component>
