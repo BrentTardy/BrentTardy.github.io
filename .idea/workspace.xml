@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Contact information.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/personal page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Opleidingsaanbod.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hobbys.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hoofdpagina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Contact information.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Contact information.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/brent/OneDrive/Documenten/GitHub/BrentTardy.github.io",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/brent/OneDrive/Documenten/GitHub/BrentTardy.github.io&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +57,11 @@
       <workItem from="1665052557911" duration="1357000" />
       <workItem from="1665067180257" duration="209000" />
       <workItem from="1665654131392" duration="4388000" />
+      <workItem from="1665658562865" duration="21000" />
+      <workItem from="1665665817261" duration="140000" />
+      <workItem from="1665666032069" duration="63000" />
+      <workItem from="1665666111840" duration="167000" />
+      <workItem from="1665666288847" duration="632000" />
     </task>
     <servers />
   </component>
