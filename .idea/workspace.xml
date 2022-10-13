@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Opleidingsaanbod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hobbys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hoofdpagina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Contact information.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 4 - Verbeteringen/Contact information.html" afterDir="false" />
-    </list>
+    <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +53,7 @@
       <workItem from="1665665817261" duration="140000" />
       <workItem from="1665666032069" duration="63000" />
       <workItem from="1665666111840" duration="167000" />
-      <workItem from="1665666288847" duration="632000" />
+      <workItem from="1665666288847" duration="933000" />
     </task>
     <servers />
   </component>
