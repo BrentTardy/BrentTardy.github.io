@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hoofdpagina.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5 - Opsplitsen van pagina/Hoofdpagina.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/brent/OneDrive/Documenten/GitHub/BrentTardy.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/brent/Documents/GitHub/BrentTardy.github.io&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -57,7 +56,13 @@
       <workItem from="1665665817261" duration="140000" />
       <workItem from="1665666032069" duration="63000" />
       <workItem from="1665666111840" duration="167000" />
-      <workItem from="1665666288847" duration="1962000" />
+      <workItem from="1665666288847" duration="3106000" />
+      <workItem from="1665669460505" duration="5000" />
+      <workItem from="1665689334728" duration="453000" />
+      <workItem from="1666083774910" duration="936000" />
+      <workItem from="1666091117944" duration="579000" />
+      <workItem from="1666253064722" duration="61000" />
+      <workItem from="1666257221322" duration="897000" />
     </task>
     <servers />
   </component>
