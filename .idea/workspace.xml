@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo CSS 1/Index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 1/Opdracht 6/Index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo CSS 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 1/Opdracht 6/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +69,7 @@
       <workItem from="1666257221322" duration="3855000" />
       <workItem from="1666614530000" duration="1583000" />
       <workItem from="1666616225073" duration="72000" />
+      <workItem from="1666643456610" duration="282000" />
     </task>
     <servers />
   </component>

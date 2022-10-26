@@ -1,0 +1,3 @@
+Waarom komen er spontaan nieuwe requests binnen?
+
+Voor nieuwe data aan te vragen om nieuwe mails te kunnen ontvangen in geval dat je die gekregen hebt
