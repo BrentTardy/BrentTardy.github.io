@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht 1 - Personal homepage assignment/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,11 @@
       <workItem from="1666783938313" duration="120000" />
       <workItem from="1666862021071" duration="5448000" />
       <workItem from="1666869030475" duration="2801000" />
-      <workItem from="1666891906562" duration="957000" />
+      <workItem from="1666891906562" duration="1354000" />
+      <workItem from="1666945332992" duration="1482000" />
+      <workItem from="1666948084361" duration="491000" />
+      <workItem from="1666958964946" duration="608000" />
+      <workItem from="1666961745963" duration="167000" />
     </task>
     <servers />
   </component>
