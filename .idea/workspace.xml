@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 1 - Herschrijven fragment/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 3 - Resume oefening/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 4 - Eigen HTML met CSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 4 - Eigen HTML met CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 5 - Hyperlinks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 5 - Hyperlinks/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 6 - Checklist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 6 - Checklist/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo CSS 2/Labo CSS 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo CSS 2/Opdracht 1 - Herschrijven fragment/Opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 1 - Herschrijven fragment/Opdracht1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo CSS 2/Opdracht 3 - Resume oefening/Opdracht 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 2/Opdracht 3 - Resume oefening/Opdracht 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +84,7 @@
       <workItem from="1666948084361" duration="491000" />
       <workItem from="1666958964946" duration="608000" />
       <workItem from="1666961745963" duration="167000" />
-      <workItem from="1667928984118" duration="5041000" />
+      <workItem from="1667928984118" duration="5355000" />
     </task>
     <servers />
   </component>
