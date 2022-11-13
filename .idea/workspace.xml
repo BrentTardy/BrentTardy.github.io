@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht 1 - Nature Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht 1 - Nature Blog/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Homepage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Kalendertabel/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Kalendertabel/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Nature Blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Nature Blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Nature Blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 3/Opdracht - Nature Blog/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -90,6 +96,7 @@
       <workItem from="1667995547119" duration="488000" />
       <workItem from="1668070166167" duration="48000" />
       <workItem from="1668074977448" duration="4741000" />
+      <workItem from="1668346829965" duration="2355000" />
     </task>
     <servers />
   </component>
