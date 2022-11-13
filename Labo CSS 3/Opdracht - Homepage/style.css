@@ -1,0 +1,49 @@
+* {
+    font-family: "Verdana", sans-serif;
+}
+
+.hoofd {
+    border: 1px solid black;
+    float: right;
+    margin: 1vw;
+    width: 20vw;
+    height: auto;
+}
+
+section {
+    background-color: lightgrey;
+    padding-bottom: .5vh;
+}
+
+h1, h2, h3 {
+    padding-top: .5vw;
+    padding-left: .5vw;
+}
+
+.Batman {
+    width: 15%;
+    height: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.Breakingbad {
+    width: 15%;
+    height: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.Edgerunner {
+    width: 15%;
+    height: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.ST {
+    width: 15%;
+    height: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
