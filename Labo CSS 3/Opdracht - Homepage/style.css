@@ -2,14 +2,6 @@
     font-family: "Verdana", sans-serif;
 }
 
-.hoofd {
-    border: 1px solid black;
-    float: right;
-    margin: 1vw;
-    width: 20vw;
-    height: auto;
-}
-
 section {
     background-color: lightgrey;
     padding-bottom: .5vh;
