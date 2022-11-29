@@ -1,0 +1,38 @@
+nav {
+    float: left;
+    width: 20%;
+    height: 200px;
+    background-color: white;
+}
+section#midden {
+    float: left;
+    background-color: maroon;
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+}
+
+header img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body {  /* Altijd nodig wanneer je website aanmaakt */
+    background-color: silver;
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
