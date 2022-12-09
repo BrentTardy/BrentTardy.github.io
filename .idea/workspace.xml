@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb5cff5d-7031-47de-94fc-52dff63d560a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Opdracht - Airbus/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Opdracht - Positionering images/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Positionering/Demostratie pitfalls of inline-block element/Begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Positionering/Demostratie pitfalls of inline-block element/Begin/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Positionering/Demostratie pitfalls of inline-block element/Oplossing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Positionering/Demostratie pitfalls of inline-block element/Oplossing/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/Positionering/Relative-absolute position/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo CSS 5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo CSS 4/Opdracht - Cocktailbar/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo CSS 4/Opdracht - Cocktailbar/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -101,6 +112,12 @@
       <workItem from="1669462857072" duration="2448000" />
       <workItem from="1669734321813" duration="3099000" />
       <workItem from="1669752525778" duration="229000" />
+      <workItem from="1669811374976" duration="333000" />
+      <workItem from="1669889232861" duration="6170000" />
+      <workItem from="1669897537829" duration="3799000" />
+      <workItem from="1669903420659" duration="374000" />
+      <workItem from="1669975788649" duration="74000" />
+      <workItem from="1670623580236" duration="1667000" />
     </task>
     <servers />
   </component>
